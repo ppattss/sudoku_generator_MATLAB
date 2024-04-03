@@ -6,7 +6,7 @@ Originally developed for desktop MATLAB r2018a, tested successfully on current b
 Any feedback and/or contributions are welcome.
 
 TO DO LIST:
-- Add validation check for solutions prior to saving.
+- Add validation check for solutions prior to saving, (currently, invalid solutions that reach backtracking limit as saved).
 - Fix helper functions.
 
 Release notes:
