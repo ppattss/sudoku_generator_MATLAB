@@ -16,13 +16,4 @@ Release notes:
     - CSV file is cloned prior to adding new solutions
 
 
-Solution example:
-    6	3	7	1	8	9	4	2	5
-    8	5	1	4	7	2	9	3	6
-    2	4	9	3	5	6	1	8	7
-    3	1	6	2	4	8	5	7	9
-    4	7	8	5	9	3	6	1	2
-    5	9	2	7	6	1	8	4	3
-    9	2	3	6	1	4	7	5	8
-    7	6	4	8	2	5	3	9	1
-    1	8	5	9	3	7	2	6	4
+<img width="378" alt="Screenshot 2024-04-03 at 2 00 50 pm" src="https://github.com/ppattss/sudoku_matlab/assets/42530595/fe800108-3394-4d4a-aa7f-7c99dd87d370">
