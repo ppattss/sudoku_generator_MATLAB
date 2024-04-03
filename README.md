@@ -9,6 +9,7 @@ Any feedback and/or contributions are welcome.
 Release notes:
 - Current implementation is a prototype, significant optimization is still required.
 - All functions are self-contained within the 'sudokuSinglePage.m' program.
+- Debug logging in command window for progress of each step.
 - Logic is brute force generation of 9 grid squares, starting form top left.
 - Each grid has a unique series of numbers 1 to 9. 
 - Program will attempt to solve in a linear fashion starting from top left.
