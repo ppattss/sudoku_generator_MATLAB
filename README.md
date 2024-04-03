@@ -5,6 +5,9 @@ Originally developed for desktop MATLAB r2018a, tested successfully on current b
 
 Any feedback and/or contributions are welcome.
 
+TO DO LIST:
+- Add validation check for solutions prior to saving.
+- Fix helper functions.
 
 Release notes:
 - Current implementation is a prototype, significant optimization is still required.
