@@ -7,13 +7,13 @@ Any feedback and/or contributions are welcome.
 
 
 Release notes:
-    - Current implementation is a prototype, significant optimization is still required.
-    - All functions are self-contained within the 'sudokuSinglePage.m' program
-    - Logic is brute force generation of 9 grid squares, starting form top left, each grid with 9 numbers. 
-    - Program will attempt to solve in a linear fashion starting from top left.
-    - Program will backtrack to previous grids if no valid solutions are found.
-    - New valid solutions are added to the csv file.
-    - CSV file is cloned prior to adding new solutions
+- Current implementation is a prototype, significant optimization is still required.
+- All functions are self-contained within the 'sudokuSinglePage.m' program
+- Logic is brute force generation of 9 grid squares, starting form top left, each grid with 9 numbers. 
+- Program will attempt to solve in a linear fashion starting from top left.
+- Program will backtrack to previous grids if no valid solutions are found.
+- New valid solutions are added to the csv file.
+- CSV file is cloned prior to adding new solutions
 
 
 <img width="378" alt="Screenshot 2024-04-03 at 2 00 50 pm" src="https://github.com/ppattss/sudoku_matlab/assets/42530595/fe800108-3394-4d4a-aa7f-7c99dd87d370">
